@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stackghostio/stackghostio/main/ghost-logo.png" alt="StackGhost Logo" width="150"/>
+</p>
+
 # 👻 StackGhost
 
 > *Where it goes doesn’t matter yet.*
